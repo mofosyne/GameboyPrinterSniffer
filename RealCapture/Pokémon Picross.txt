@@ -6,7 +6,7 @@
 // GAME:Pokémon Picross
 // DATE: 2020-09-11
 // AUTHOR:Raphaël BOICHOT
-// NOTE:strange palette 0x00
+// NOTE:unusual default palette 0x00
 // 0 : INIT
 88 33 01 00 00 00 01 00 81 00 
 // 1 : DATA
