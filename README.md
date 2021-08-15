@@ -50,9 +50,7 @@ show the desired dump.
 
 This will give you an output similar to those found in `./RealCapture/`.
 
-To view the content, you can use the raw decoder found in
-
-https://mofosyne.github.io/arduino-gameboy-printer-emulator/gbp_decoder/jsdecoderV2/gameboy_printer_js_raw_decoder.html
+(To view the content, you can use the raw decoder found here](https://mofosyne.github.io/arduino-gameboy-printer-emulator/GameBoyPrinterDecoderJS/gameboy_printer_js_raw_decoder.html)
 
 ### General Pinout
 
